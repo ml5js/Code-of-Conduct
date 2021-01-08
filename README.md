@@ -1,8 +1,8 @@
-# ml5.js Code of Conduct
+![ml5.js Code of Conduct banner](assets/ml5-coc-banner-v1.jpg)
 
 The Code of Conduct establishes and communicates the commitment of the ml5.js community to uphold a key set of standards and obligations that aim to make ml5.js a friendly and welcoming environment.
 
-## Community Statement
+## 🌈 Community Statement
 
 ml5.js is a community interested in exploring the creative and ethical application of machine learning.
 
@@ -32,7 +32,7 @@ We like these hashtags: #noCodeSnobs (because we value community over efficiency
 
 - The future is now.
 
-## Overview
+## 🌍 Overview
 
 ### Our Pledge Pt.1: Fundamentals
 
@@ -67,7 +67,7 @@ The ml5.js Code of Conduct is an ever-evolving document that establishes and com
 
 To be part of the ml5.js community is to accept, support, and work to improve the Code of Conduct outlined here.
 
-## Developing and Growing the Code of Conduct
+## 🌱 Developing and Growing the Code of Conduct
 
 This Code of Conduct is collaboratively developed by the ml5.js community. It was originally adopted in 2020 after community consultation and discussion. That process also created the Code of Conduct Steering Committee.
 
@@ -87,7 +87,7 @@ The Steering Committee’s members are:
 
 []
 
-## Our Standards
+## 🗂 Our Standards
 
 The Code of Conduct represents the ml5.js community’s attempt to develop an evolving collective understanding of what it means to use machine learning creatively, appropriately, ethically, and critically.
 
@@ -127,9 +127,8 @@ To do so, we define standards that apply to the community member behavior AND co
   - Machine learning can be used to analyze data about large numbers of people and to use that data to predict future trends. Although there can be legitimate uses of these tools, they are too often used to repress the rights of others.
 - Use ml5.js to build tools that control weapons
   - This includes tools that automate the deployment, operation, and targeting of weapons
-- TBD: add notes on not using data in ml5 that speaks to the above points ^^
 
-### Use of ml5.js and Data
+### 📊 Use of ml5.js and Data
 
 Machine learning heavily relies on data and datasets. Therefore, we have included below a non-exhaustive list of best practices as well as resources that we recommend our community use.
 
