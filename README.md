@@ -1,4 +1,4 @@
-![ml5.js Code of Conduct banner](assets/ml5-coc-banner-v1.jpg)
+![ml5.js Code of Conduct banner](assets/ml5-coc-banner-v1.png)
 
 The Code of Conduct establishes and communicates the commitment of the ml5.js community to uphold a key set of standards and obligations that aim to make ml5.js a friendly and welcoming environment.
 
