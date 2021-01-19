@@ -1,3 +1,5 @@
+# Frequently Asked Questions
+
 This evolving FAQ covers questions related to to the ml5.js [license](https://github.com/ml5js/Code-of-Conduct/blob/main/LICENSE.md) and [Code of Conduct](https://github.com/ml5js/Code-of-Conduct).  Please open an [issue](https://github.com/ml5js/Code-of-Conduct/issues) if you have a question that is not covered by this document.
 
 ## How are the ml5.js license and Code of Conduct related?
