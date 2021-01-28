@@ -12,7 +12,7 @@ In order to receive this license, you must agree to its rules. The rules of this
 
 ## Copyright
 
-Each contributor licenses you to do everything with this software that would otherwise infringe that contributor’s copyright in it.
+Each contributor licenses you to do everything with this software that would otherwise infringe that contributor’s copyright in it provided that: a) your use of this software complies with the ml5.js Code of Conduct as it exists at the time of your use; and b) as applicable, you cooperate with any investigations your compliance with the ml5.js Code of Conduct.
 
 ## License Reversion
 
