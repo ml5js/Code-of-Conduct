@@ -20,7 +20,7 @@ Each contribution to this software is licensed under this license for three year
 
 ## Code of Conduct
 
-You must use this software in compliance with the ml5.js [Code of Conduct](README.md) as it exists at the time of your use. This includes cooperating with any investigations of your compliance with the ml5.js Code of Conduct.
+You must use this software in compliance with the ml5.js [Code of Conduct](README.md) as it exists at the time of your use. This includes cooperating with any investigations of your compliance with the ml5.js Code of Conduct by the Code of Conduct Comittee or any contributor or their designees.
 
 ## Notices
 
