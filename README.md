@@ -53,26 +53,6 @@ In addition to the official ml5.js community spaces, members of the community ar
 
 To be part of the ml5.js community is to accept, support, and engage with the Code of Conduct.
 
-## 🌱 Developing and Growing the Code of Conduct
-
-This Code of Conduct is collaboratively developed by the ml5.js community. It was originally adopted in 2020 after community consultation and discussion. That process also created the Code of Conduct Steering Committee.
-
-We expect the Code of Conduct to be an evolving document. This evolution will take at least two forms. First, the elements may change. Some rules may be added, while others may be removed.
-
-Second, elements will be clarified through interpretation. ml5.js is used in a wide range of projects. The Code of Conduct is made up of high level principles that may apply differently to each of those projects. We intend to add interpretations to the Code of Conduct as we make them. We hope that this will add context to the principles over time.
-
-### ml5.js Code of Conduct Steering Committee
-
-The Steering Committee is responsible for maintaining the Code of Conduct, managing discussions about additions and subtractions, interpreting the Code of Conduct, and enforcing its rules.
-
-The initial committee will be made up of seven members of the ml5.js community responsible for originally drafting this Code of Conduct. This initial committee’s term will last for 18 months from the finalization of the Code of Conduct. In addition to enforcing the Code of Conduct during this 18 months, the initial committee will be responsible for developing a plan for regularly electing new members of the Steering Committee. The Steering Committee’s primary responsibility is to maintain this Code of Conduct in order to make sure it continues to reflect the ml5.js community’s values.
-
-The Steering Committee is also responsible for enforcing the Code of Conduct. The Steering Committee will strive to make its enforcement decisions public in order to help the community better understand how the Code of Conduct can be applied in any given situation.
-
-The Steering Committee’s members are:
-
-[]
-
 ## 🗂 Our Standards
 
 The Code of Conduct represents the ml5.js community’s attempt to develop an evolving collective understanding of what it means to use machine learning creatively, appropriately, ethically, and critically.
@@ -137,6 +117,26 @@ The field of machine learning currently lacks a standard method for documenting 
 - Uses
 - Distribution
 - Maintenance
+
+## 🌱 Developing and Growing the Code of Conduct
+
+This Code of Conduct is collaboratively developed by the ml5.js community. It was originally adopted in 2020 after community consultation and discussion. That process also created the Code of Conduct Steering Committee.
+
+We expect the Code of Conduct to be an evolving document. This evolution will take at least two forms. First, the elements may change. Some rules may be added, while others may be removed.
+
+Second, elements will be clarified through interpretation. ml5.js is used in a wide range of projects. The Code of Conduct is made up of high level principles that may apply differently to each of those projects. We intend to add interpretations to the Code of Conduct as we make them. We hope that this will add context to the principles over time.
+
+### ml5.js Code of Conduct Steering Committee
+
+The Steering Committee is responsible for maintaining the Code of Conduct, managing discussions about additions and subtractions, interpreting the Code of Conduct, and enforcing its rules.
+
+The initial committee will be made up of seven members of the ml5.js community responsible for originally drafting this Code of Conduct. This initial committee’s term will last for 18 months from the finalization of the Code of Conduct. In addition to enforcing the Code of Conduct during this 18 months, the initial committee will be responsible for developing a plan for regularly electing new members of the Steering Committee. The Steering Committee’s primary responsibility is to maintain this Code of Conduct in order to make sure it continues to reflect the ml5.js community’s values.
+
+The Steering Committee is also responsible for enforcing the Code of Conduct. The Steering Committee will strive to make its enforcement decisions public in order to help the community better understand how the Code of Conduct can be applied in any given situation.
+
+The Steering Committee’s members are:
+
+[]
 
 ## Enforcement Responsibilities
 
