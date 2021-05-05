@@ -36,24 +36,22 @@ The ml5.js community expects everyone to work towards creating a harassment-free
 
 ### Scope
 
-This Code of Conduct applies within <span style="text-decoration:underline;">all</span> ml5.js community spaces online and offline and when using the ml5.js JavaScript library and accompanying materials.
+This Code of Conduct applies within all ml5.js community spaces online and offline and when using the ml5.js JavaScript library and accompanying materials. It describes the behavior we expect from community members and how behavior that may violate the Code of Conduct will be handled.
 
-We recognize that projects using the ml5.js library must be interpreted on the basis of their context. While the intentions of the artist--the developer--may be “good”, we agree that good intentions do not always lead to positive impacts. The scope of the ml5.js Code of Conduct applies to any use of the ml5.js JavaScript library and associated materials, as well as behavior in community spaces. Any concerns raised about the potential impact of such use will be evaluated on a case-by-case basis.
+Software that violates the Code of Conduct does not meet the requirements of the ml5.js [copyright license](LICENSE.md). Software that uses the ml5.js library must continue to comply with the evolving Code of Conduct.
 
-Maintainers and leaders of the ml5.js project are expected to follow the Code of Conduct when representing our community. Representing ml5.js includes using an official ml5js.org e-mail address, posting via an official social media account, interacting on GitHub Issues or Pull Requests, in chat rooms such as on Slack or Discord, writing code for the library or creating any ml5.js related materials, or acting as an appointed representative at an online or offline event.
+Members of the ml5.js community who violate the Code of Conduct may be asked to leave the community. Personal behavior that violates the Code of Conduct does not automatically mean that software created by that person violates the Code of Conduct. Additionally, community members who follow the Code of Conduct in community spaces may still create software that violates the Code of Conduct.
 
+Maintainers and leaders of the ml5.js project are expected to follow the Code of Conduct when representing the community both inside and outside of community spaces. Representing ml5.js includes using an official ml5js.org e-mail address, posting via an official social media account, interacting on ml5.js GitHub Issues or Pull Requests, in chat rooms such as on Slack or Discord, writing code for the library or creating any ml5.js related materials, or acting as an appointed representative at an online or offline event.
 Members of the community are also expected to follow the Code of Conduct when participating in ml5.js community spaces. At present this applies to:
 
 - All ml5.js GitHub repositories
-- ml5.js Slack channel
 - ml5.js Discord channel
 - Any virtual or in-person workshops or events organized by ml5.js
 
-In addition to the official ml5.js community spaces, members of the community are expected to follow the Code of Conduct when interacting with official ml5.js accounts on social media. At present, the only official account is @ml5js on Twitter.
+In addition to the official ml5.js community spaces, members of the community are expected to follow the Code of Conduct when interacting with official ml5.js accounts on social media. At present, the only official account is [@ml5js on Twitter](https://twitter.com/ml5js).
 
-The ml5.js Code of Conduct is an ever-evolving document that establishes and communicates the commitment of the ml5.js community to uphold a key set of standards and obligations that aim to make ml5.js a friendly and welcoming environment to be a part of.
-
-To be part of the ml5.js community is to accept, support, and work to improve the Code of Conduct outlined here.
+To be part of the ml5.js community is to accept, support, and engage with the Code of Conduct.
 
 ## 🌱 Developing and Growing the Code of Conduct
 
