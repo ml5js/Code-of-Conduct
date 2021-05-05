@@ -55,14 +55,23 @@ To be part of the ml5.js community is to accept, support, and engage with the Co
 
 ## 🗂 Our Standards
 
-The Code of Conduct represents the ml5.js community’s attempt to develop an evolving collective understanding of what it means to use machine learning creatively, appropriately, ethically, and critically.
+The Code of Conduct represents the ml5.js community’s attempt to develop an evolving collective understanding of what it means to use machine learning creatively, appropriately, ethically, and critically. We recognize that behavior within the ml5.js community and projects using the ml5.js library must be interpreted on the basis of their context. While the intentions of the artist--the developer--may be “good,” we agree that good intentions do not always lead to positive impacts.
 
-To do so, we define standards that apply to the community member behavior AND community member usage of the ml5.js library and its accompanying resources and materials.
+We expect these standards to evolve over time and invite contributions from the community to expand, clarify, or reword them.
 
 ### Behavior within the community
 
+#### Do
+
 - Be mindful of your language.
-- Any of the following behavior is unacceptable:
+- Use your best judgement. If it will possibly make others uncomfortable unnecessarily, do not post it.
+- Be respectful. Disagreement is not an opportunity to attack someone else's thoughts or opinions. Although views may differ, remember to approach every situation with patience and care.
+- Be considerate. Think about how your contribution will affect others in the community.
+- Be open-minded. Embrace new people and new ideas. The community is continually evolving, and we welcome positive change.
+
+#### Do Not
+
+- Engage in any of the following types of behavior:
   - Offensive comments related to gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, ability, class, religion, culture, subculture, political opinion, age, skill level, occupation, or background
   - Threats of violence
   - Deliberate intimidation
@@ -70,29 +79,25 @@ To do so, we define standards that apply to the community member behavior AND co
   - Unwelcome sexual attention
   - Stalking or following
   - Or any other kinds of harassment
-- Use your best judgement. If it will possibly make others uncomfortable, do not post it.
-- Be respectful. Disagreement is not an opportunity to attack someone else's thoughts or opinions. Although views may differ, remember to approach every situation with patience and care.
-- Be considerate. Think about how your contribution will affect others in the community.
-- Be open minded. Embrace new people and new ideas. Our community is continually evolving and we welcome positive change.
 
-### Use of ml5.js and accompanying materials
+### Use of the ml5.js software library
 
 #### Do
 
 - Teach with ml5.js
-- Make art with ml5.js
+- Make creative projects with ml5.js
 - Use ml5.js for social good
 
 #### Do Not
 
 - Use ml5.js to build tools that discriminate against marginalized communities
-  - Discrimination includes tools that actively disfavor marginalized groups as well as tools that make it easier for programs to identify members of sensitive groups. This discrimination can be direct (e.g. systematically undervaluing female-presenting job candidates) or indirect (e.g. contributing to a data feedback loop where police resources are over-allocated to minority neighborhoods, thus resulting in more arrests of the residents of those neighborhoods).
+  - Discrimination includes tools that actively disfavor marginalized groups as well as tools that make it easier for programs to identify members of sensitive groups. This discrimination can be direct (e.g. systematically undervaluing femme-coded job candidates) or indirect (e.g. contributing to a data feedback loop where police resources are over-allocated to minority neighborhoods, thus resulting in more arrests of the residents of those neighborhoods).
 - Use ml5.js to build tools to disingenuously manipulate public opinion
-  - Ml5.js supports activism and advocacy. However, ml5.js may not be used to create tools that maliciously and/or opaquely distort public opinion. This includes creating bots to maliciously distribute fake news or deep fakes to provide evidence of events that never occurred in order to improperly influence public opinion.
+  - ml5.js supports activism and advocacy. However, ml5.js may not be used to create tools that maliciously and/or opaquely distort public opinion. This includes creating bots to maliciously distribute fake news or deep fakes to provide evidence of events that never occurred in order to improperly influence public opinion.
 - Use ml5.js to build tools of mass surveillance and prediction to repress the rights of people
   - Machine learning can be used to analyze data about large numbers of people and to use that data to predict future trends. Although there can be legitimate uses of these tools, they are too often used to repress the rights of others.
 - Use ml5.js to build tools that control weapons
-  - This includes tools that automate the deployment, operation, and targeting of weapons
+  -This includes tools that automate the deployment, operation, and targeting of weapons
 
 ### 📊 Use of ml5.js and Data
 
