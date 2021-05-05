@@ -4,33 +4,29 @@ The Code of Conduct establishes and communicates the commitment of the ml5.js co
 
 ## 🌈 Community Statement
 
-ml5.js is a community interested in exploring the creative and ethical application of machine learning.
+ml5.js is a community interested in exploring and empowering the creative and ethical application of machine learning. This Code of Conduct is intended to foster a community that is open to anyone interested in joining that exploration.
 
-We are a community of, and in solidarity with, people from every gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, ability, class, religion, culture, subculture, political opinion, age, skill level, occupation, and background. We acknowledge that not everyone has the time, financial means, or capacity to actively participate, but we recognize and encourage involvement of all kinds. We facilitate and foster access and empowerment. We are all learners.
+We are a community of, and in solidarity with, people from every gender identity and expression, sexual orientation, race, ethnicity, size, ability, class, religion, culture, age, skill level, occupation, and background. We acknowledge that not everyone has the time, financial means, or capacity to actively participate, but we recognize and encourage involvement of all kinds. We facilitate and foster access and empowerment. We are all learners.
 
-We like these hashtags: #noCodeSnobs (because we value community over efficiency), #newKidLove (because we all started somewhere), #unassumeCore (because we don't assume knowledge), and #BlackLivesMatter (because of course).
+We accept the claim that technology is a reflection of society, its histories, and its politics. We reject the claim that any technology is neutral and acknowledge that every technology has the potential to do as much harm as good. We acknowledge that when technologies cause harm, the harm disproportionately affects Black/Indigenous, People of Color (BIPOC) queer, trans, disabled, femme, low-income, survivors, and all other marginalized bodies and communities. With this understanding, we work to intentionally engage these groups when hosting, participating in, or developing events (e.g. workshops or meetings), materials (e.g. courses, syllabi, resources), and software (e.g. the ml5.js library, examples, and related and supporting code).
+
+As part of the ml5.js Code of Conduct, we pledge to design, build, and use ml5.js in a way that centers the aforementioned marginalized bodies and communities first, striving to always confront our biases, privileges, and ignorances for our own good and society at large.
 
 **In practice:**
 
-- We are not code snobs. We do not assume knowledge or imply there are things that somebody should know.
-- We insist on actively engaging with requests for feedback regardless of their complexity.
-- We welcome newcomers and prioritize the education of others. We strive to approach all tasks with the enthusiasm of a newcomer. Because we believe that newcomers are just as valuable in this effort as experts.
+- We welcome newcomers and prioritize the education of others. We do not assume knowledge or imply there are things that somebody should know. We strive to approach all tasks with the enthusiasm of a newcomer because we believe that newcomers are just as valuable in this effort as experts.
 - We consistently make the effort to actively recognize and validate multiple types of contributions.
-- We are always willing to offer help or guidance.
+- We work to offer help and guidance when we are able to do so.
 
 **In times of conflict:**
 
 - We listen.
 - We clearly communicate while acknowledging others’ feelings.
 - We admit when we're wrong, apologize, and accept responsibility for our actions.
-- We are continuously seeking to improve ourselves and our community.
-- We keep our community respectful and open.
+- We are continuously seeking to improve ourselves and the community.
+- We keep the community respectful and open.
 - We make everyone feel heard.
 - We are mindful and kind in our interactions.
-
-**In the future:**
-
-- The future is now.
 
 ## 🌍 Overview
 
