@@ -173,21 +173,21 @@ First, the elements may change. Some rules may be added, while others may be rem
 
 Second, the elements will be clarified through interpretation. ml5.js is used in a wide range of projects. The Code of Conduct is made up of high level principles that may apply differently to each of those projects. The Code of Conduct Steering Committee intends to publicize interpretations to the Code of Conduct as it makes them. We hope that this will add context to the principles over time.
 
-### 📊 Use of ml5.js and Data
+## 📊 A word about data and data sets
 
-Machine learning heavily relies on data and datasets. Therefore, we have included below a non-exhaustive list of best practices as well as resources that we recommend our community use.
+Machine learning heavily relies on data and datasets. Therefore, we have incorporated a non-exhaustive list of best practices to consider when working with data into this Code of Conduct, as well as resources that we recommend the community use. Although these best practices are not formally part of the Code of Conduct’s standards, understanding and following them will make it easier to comply with those standards.
 
 If you are new to working with algorithms and data, we especially recommend [A People’s Guide to AI](https://www.alliedmedia.org/files/peoples-guide-ai.pdf) for learning about the relationship between machine learning algorithms and data. “Embodying Social Algorithms” (p.36) is a great activity to start with for thinking in particular about how the data you use relate to the output and if those data are the right way to measure the information you’re interested in.
 
 Best data practices include at a minimum, but are not limited to the following:
 
-- Know your dataset (see Datasheets for Datasets below)
+- Know your dataset (see [Datasheets for Datasets](https://arxiv.org/abs/1803.09010#) below)
 - Explain the methods you used in your analysis and steps you took in data processing
 - Explain and be transparent about the limitations of your data and analysis
 - Make your sources clear and available when possible
 - Protect and do not expose personally identifiable information
 
-The field of machine learning currently lacks a standard method for documenting datasets. We encourage our community to use the [Datasheets for Datasets](https://arxiv.org/abs/1803.09010#) questions that were developed to address this gap. This approach is particularly helpful because it outlines best practices and important questions to ask yourself at each of the below stages in the process of working with data while doing machine learning:
+The field of machine learning currently lacks a standard method for documenting datasets. We encourage the community to use the [Datasheets for Datasets](https://arxiv.org/abs/1803.09010#) questions that were developed to address this gap. This approach is particularly helpful because it outlines best practices and important questions to ask yourself at each of the below stages in the process of working with data while doing machine learning:
 
 - Motivation
 - Composition
