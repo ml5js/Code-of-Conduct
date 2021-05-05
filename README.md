@@ -99,39 +99,9 @@ We expect these standards to evolve over time and invite contributions from the 
 - Use ml5.js to build tools that control weapons
   -This includes tools that automate the deployment, operation, and targeting of weapons
 
-### 📊 Use of ml5.js and Data
+## Upholding the ml5.js Code of Conduct
 
-Machine learning heavily relies on data and datasets. Therefore, we have included below a non-exhaustive list of best practices as well as resources that we recommend our community use.
-
-If you are new to working with algorithms and data, we especially recommend [A People’s Guide to AI](https://www.alliedmedia.org/files/peoples-guide-ai.pdf) for learning about the relationship between machine learning algorithms and data. “Embodying Social Algorithms” (p.36) is a great activity to start with for thinking in particular about how the data you use relate to the output and if those data are the right way to measure the information you’re interested in.
-
-Best data practices include at a minimum, but are not limited to the following:
-
-- Know your dataset (see Datasheets for Datasets below)
-- Explain the methods you used in your analysis and steps you took in data processing
-- Explain and be transparent about the limitations of your data and analysis
-- Make your sources clear and available when possible
-- Protect and do not expose personally identifiable information
-
-The field of machine learning currently lacks a standard method for documenting datasets. We encourage our community to use the [Datasheets for Datasets](https://arxiv.org/abs/1803.09010#) questions that were developed to address this gap. This approach is particularly helpful because it outlines best practices and important questions to ask yourself at each of the below stages in the process of working with data while doing machine learning:
-
-- Motivation
-- Composition
-- Collection Process
-- Preprocessing/cleaning/labeling
-- Uses
-- Distribution
-- Maintenance
-
-## 🌱 Developing and Growing the Code of Conduct
-
-This Code of Conduct is collaboratively developed by the ml5.js community. It was originally adopted in 2020 after community consultation and discussion. That process also created the Code of Conduct Steering Committee.
-
-We expect the Code of Conduct to be an evolving document. This evolution will take at least two forms. First, the elements may change. Some rules may be added, while others may be removed.
-
-Second, elements will be clarified through interpretation. ml5.js is used in a wide range of projects. The Code of Conduct is made up of high level principles that may apply differently to each of those projects. We intend to add interpretations to the Code of Conduct as we make them. We hope that this will add context to the principles over time.
-
-### ml5.js Code of Conduct Steering Committee
+## ml5.js Code of Conduct Steering Committee
 
 The Steering Committee is responsible for maintaining the Code of Conduct, managing discussions about additions and subtractions, interpreting the Code of Conduct, and enforcing its rules.
 
@@ -194,3 +164,35 @@ The Steering Committee will investigate any accused violations of the Code of Co
 If these steps do not result in a resolution, the Steering Committee may formally determine that the project is in violation of the Code of Conduct. That finding will cause the project to fall out of compliance with the terms of the ml5.js software license.
 
 Once an investigation is completed, the Steering Committee will strive to make the decision and reasoning available to the wider community. This will help the community understand how the Code of Conduct is applied in practice.
+
+### 📊 Use of ml5.js and Data
+
+Machine learning heavily relies on data and datasets. Therefore, we have included below a non-exhaustive list of best practices as well as resources that we recommend our community use.
+
+If you are new to working with algorithms and data, we especially recommend [A People’s Guide to AI](https://www.alliedmedia.org/files/peoples-guide-ai.pdf) for learning about the relationship between machine learning algorithms and data. “Embodying Social Algorithms” (p.36) is a great activity to start with for thinking in particular about how the data you use relate to the output and if those data are the right way to measure the information you’re interested in.
+
+Best data practices include at a minimum, but are not limited to the following:
+
+- Know your dataset (see Datasheets for Datasets below)
+- Explain the methods you used in your analysis and steps you took in data processing
+- Explain and be transparent about the limitations of your data and analysis
+- Make your sources clear and available when possible
+- Protect and do not expose personally identifiable information
+
+The field of machine learning currently lacks a standard method for documenting datasets. We encourage our community to use the [Datasheets for Datasets](https://arxiv.org/abs/1803.09010#) questions that were developed to address this gap. This approach is particularly helpful because it outlines best practices and important questions to ask yourself at each of the below stages in the process of working with data while doing machine learning:
+
+- Motivation
+- Composition
+- Collection Process
+- Preprocessing/cleaning/labeling
+- Uses
+- Distribution
+- Maintenance
+
+## 🌱 Developing and Growing the Code of Conduct
+
+This Code of Conduct is collaboratively developed by the ml5.js community. It was originally adopted in 2020 after community consultation and discussion. That process also created the Code of Conduct Steering Committee.
+
+We expect the Code of Conduct to be an evolving document. This evolution will take at least two forms. First, the elements may change. Some rules may be added, while others may be removed.
+
+Second, elements will be clarified through interpretation. ml5.js is used in a wide range of projects. The Code of Conduct is made up of high level principles that may apply differently to each of those projects. We intend to add interpretations to the Code of Conduct as we make them. We hope that this will add context to the principles over time.
