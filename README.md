@@ -161,6 +161,14 @@ The Code of Conduct Committee’s members are:
 - Daniel Shiffman
 - Michael Weinberg
 
+## 🌱 Developing and Growing the Code of Conduct
+
+This Code of Conduct is collaboratively developed by the ml5.js community. It was originally adopted in 2020 after community consultation and discussion. That process also created the Code of Conduct Steering Committee.
+
+We expect the Code of Conduct to be an evolving document. This evolution will take at least two forms. First, the elements may change. Some rules may be added, while others may be removed.
+
+Second, elements will be clarified through interpretation. ml5.js is used in a wide range of projects. The Code of Conduct is made up of high level principles that may apply differently to each of those projects. We intend to add interpretations to the Code of Conduct as we make them. We hope that this will add context to the principles over time.
+
 ### 📊 Use of ml5.js and Data
 
 Machine learning heavily relies on data and datasets. Therefore, we have included below a non-exhaustive list of best practices as well as resources that we recommend our community use.
@@ -184,11 +192,3 @@ The field of machine learning currently lacks a standard method for documenting 
 - Uses
 - Distribution
 - Maintenance
-
-## 🌱 Developing and Growing the Code of Conduct
-
-This Code of Conduct is collaboratively developed by the ml5.js community. It was originally adopted in 2020 after community consultation and discussion. That process also created the Code of Conduct Steering Committee.
-
-We expect the Code of Conduct to be an evolving document. This evolution will take at least two forms. First, the elements may change. Some rules may be added, while others may be removed.
-
-Second, elements will be clarified through interpretation. ml5.js is used in a wide range of projects. The Code of Conduct is made up of high level principles that may apply differently to each of those projects. We intend to add interpretations to the Code of Conduct as we make them. We hope that this will add context to the principles over time.
