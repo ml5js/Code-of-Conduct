@@ -163,11 +163,15 @@ The Code of Conduct Committee’s members are:
 
 ## 🌱 Developing and Growing the Code of Conduct
 
-This Code of Conduct is collaboratively developed by the ml5.js community. It was originally adopted in 2020 after community consultation and discussion. That process also created the Code of Conduct Steering Committee.
+The ml5.js Code of Conduct is an ever-evolving document that establishes and communicates the commitment of the ml5.js community to uphold a key set of standards and obligations that aim to make ml5.js a friendly and welcoming environment.
 
-We expect the Code of Conduct to be an evolving document. This evolution will take at least two forms. First, the elements may change. Some rules may be added, while others may be removed.
+This Code of Conduct is collaboratively developed by the ml5.js community. It was originally adopted in 2021 after a community consultation and discussion that began in January of 2020. That process also created the Code of Conduct Committee.
 
-Second, elements will be clarified through interpretation. ml5.js is used in a wide range of projects. The Code of Conduct is made up of high level principles that may apply differently to each of those projects. We intend to add interpretations to the Code of Conduct as we make them. We hope that this will add context to the principles over time.
+We expect the Code of Conduct to be a living document. Its evolution will take at least two forms.
+
+First, the elements may change. Some rules may be added, while others may be removed. The Code of Conduct Steering Committee will strive to make sure that the text of the Code of Conduct continues to reflect the community understanding of the spirit of the Code of Conduct.
+
+Second, the elements will be clarified through interpretation. ml5.js is used in a wide range of projects. The Code of Conduct is made up of high level principles that may apply differently to each of those projects. The Code of Conduct Steering Committee intends to publicize interpretations to the Code of Conduct as it makes them. We hope that this will add context to the principles over time.
 
 ### 📊 Use of ml5.js and Data
 
