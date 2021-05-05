@@ -30,17 +30,9 @@ As part of the ml5.js Code of Conduct, we pledge to design, build, and use ml5.j
 
 ## 🌍 Overview
 
-### Our Pledge Pt.1: Fundamentals
+This Code of Conduct is designed to apply to behavior within the ml5 community and to the uses of the ml5.js library. Members of the ml5 community are expected to follow the Code of Conduct when participating in the [community spaces described below](). Software that uses the ml5.js library is required to follow the Code of Conduct by the library’s copyright license.
 
-We, as members, contributors, and leaders, pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
-
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
-
-### Our Pledge Pt. 2: Our ml5.js pledge
-
-ml5.js is a project focused on centering creative and ethical applications of technology, specifically as it relates to machine learning. We accept the claim that technology is a reflection of society, its histories, and its politics. We reject the claim that any technology is neutral and acknowledge that every technology has the potential to do as much harm as good. We acknowledge that when technologies cause harm, the harm disproportionately affects Black/Indigenous, People of Color (BIPOC) queer, trans, disabled, femme, low-income, survivors, and all other marginalized bodies and communities. With this understanding, we center these groups when hosting, participating in, or developing events (e.g. workshops or meetings), materials (e.g. courses, syllabi, resources), and software (e.g. the ml5.js library, examples, and related and supporting code).
-
-As part of the ml5.js Code of Conduct, we pledge to design, build, and use ml5.js in a way that centers the aforementioned marginalized bodies and communities first, striving to always confront our biases, privileges, and ignorances for our own good and society at large.
+The ml5.js community expects everyone to work towards creating a harassment-free experience for everyone. We pledge to act in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community. We recognize that harassment-free is not the same as disagreement-free or even conflict-free.
 
 ### Scope
 
