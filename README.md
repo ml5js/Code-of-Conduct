@@ -99,11 +99,52 @@ We expect these standards to evolve over time and invite contributions from the 
 - Use ml5.js to build tools that control weapons
   -This includes tools that automate the deployment, operation, and targeting of weapons
 
-## Upholding the ml5.js Code of Conduct
+## Upholding the ml5.js Code of Conduct...
+
+The Code of Conduct Steering Committee is responsible for clarifying and enforcing the standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
+
+The Code of Conduct Steering Committee will strive to publicize Code of Conduct enforcement decisions when doing so will benefit the community. It will also maintain an archive of all complaints and enforcement decisions.
+
+### ...within the community
+
+The Code of Conduct Steering Committee has the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct. It also has the right and responsibility to request that individuals leave the community, either temporarily or permanently.
+
+If you believe that someone is violating the Code of Conduct, we ask that you report it by emailing [info@ml5js.org](mailto:info@ml5js.org). This email is accessible to the full Code of Conduct Steering Committee. If, for any reason, you are not comfortable reporting the violation to the full Code of Conduct Steering Committee, we invite you to report the violation to any individual member of the Code of Conduct Steering Committee. Please include a description of the incident in your report. The Code of Conduct Steering Committee works to respond to all reports in a reasonable time.
+
+Violations of the Code of Conduct do not have to be a single severe instance. We recognize that ongoing low levels of toxic behavior can be just as harmful to the community as a single severe act.
+
+An example of such an email would look like this:
+
+---
+
+_Subject:_
+
+[Code of Conduct] Reporting a violation
+
+_Body:_
+
+Dear ml5.js leadership,
+
+My name is \_\_\_\_\_\_ and I’m writing to report a violation of ml5.js community Code of Conduct. Specifically, I’d like to report \_\_\_\_\_\_.
+
+---
+
+Sometimes, participants violating the Code of Conduct are unaware that their behavior is harmful, and an open conversation clears things up to move forward. However, if a participant continues with the behavior, the Code of Conduct Steering Committee may take any action they deem appropriate, up to and including expulsion from all ml5.js spaces and identification of the participant as a harasser to other ml5.js members or the general public.
+
+### ...within uses of the ml5.js library
+
+Projects that make use of the ml5.ljs library are required to comply with the Code of Conduct by the ml5.js copyright license. The Code of Conduct Steering Committee is ultimately responsible for deciding if projects that incorporate the ml5.js library violate the Code of Conduct. It can make those decisions in response to a specific request, or through an investigation it initiates directly.
+
+If you believe that a project that incorporates ml5.js violates the Code of Conduct, or are concerned that your own project may violate the Code of Conduct, we ask that you email [info@ml5js.org](mailto:info@ml5js.org).
+
+1. Reach out to the accused project maintainers in order to discuss the violation and ways to resolve the violation. That may include realigning the project with this Code of Conduct or removing ml5.js from the project entirely. Accused violators will be given at least 30 days to resolve a violation before it is determined to be final. The Code of Conduct Committee may extend this timeline in order to accommodate an investigation into the accusation.
+2. Publicly identify the project as being in violation of the Code of Conduct.
+
+If these steps do not result in a resolution, the Code of Conduct Committee may formally determine that the project is in violation of the Code of Conduct. That finding will cause the project to fall out of compliance with the terms of the ml5.js software license.
+
+Once an investigation is completed, the Code of Conduct Committee will strive to make the decision and reasoning resulting from the investigation available to the wider community. This will help the community understand how the Code of Conduct is applied in practice.
 
 ## ml5.js Code of Conduct Steering Committee
-
-The Steering Committee is responsible for maintaining the Code of Conduct, managing discussions about additions and subtractions, interpreting the Code of Conduct, and enforcing its rules.
 
 The initial committee will be made up of seven members of the ml5.js community responsible for originally drafting this Code of Conduct. This initial committee’s term will last for 18 months from the finalization of the Code of Conduct. In addition to enforcing the Code of Conduct during this 18 months, the initial committee will be responsible for developing a plan for regularly electing new members of the Steering Committee. The Steering Committee’s primary responsibility is to maintain this Code of Conduct in order to make sure it continues to reflect the ml5.js community’s values.
 
