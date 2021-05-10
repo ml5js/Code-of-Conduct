@@ -1,6 +1,6 @@
 # ml5.js LICENSE
 
-_This is a discussion draft of a possible license for ml5.js. It does not currently apply to the ml5.js library. The license is based on the [Blue Oak Council Model License 1.0.0](https://blueoakcouncil.org/license/1.0.0), although in no way endorsed or supported by the Blue Oak Council._
+_Version 1.0 of the ml5.js license was adopted and last updated on May 10, 2021.  It applies to the ml5.js library as of May 20,2021.  You can read the blog post announcing and explaining the development of the license [here](https://ml5js.medium.com/6b0e4c109b76)._
 
 ## Purpose
 
