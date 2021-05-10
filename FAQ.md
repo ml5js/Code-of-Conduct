@@ -68,3 +68,7 @@ The ml5.js library, though now broadly applicable in native JavaScript, was orig
 ### COSA
 
 The ml5.js project has received support from the [Clinic for Open-Source Arts](https://www.du.edu/ahss/opensourcearts/).
+
+### Frank-Ratchye STUDIO for Creative Inquiry
+
+The ml5.js project has received support from the [Frank-Ratchye STUDIO for Creative Inquiry](https://studioforcreativeinquiry.org/)
