@@ -2,6 +2,8 @@
 
 The Code of Conduct establishes and communicates the commitment of the ml5.js community to uphold a key set of standards and obligations that aim to make ml5.js a friendly and welcoming environment. [Read more about the team's process and approach on our Medium post](https://medium.com/ml5js/ml5-js-code-of-conduct-4eb8fcae1ef7).
 
+This is version 1.0 of the Code of Conduct. It was last updated on May 10, 2021.
+
 ## 🌈 Community Statement
 
 ml5.js is a community interested in exploring and empowering the creative and ethical application of machine learning. This Code of Conduct is intended to foster a community that is open to anyone interested in joining that exploration.
