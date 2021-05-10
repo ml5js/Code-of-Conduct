@@ -24,7 +24,7 @@ You must use this software in compliance with the ml5.js [Code of Conduct](READM
 
 ## Notices
 
-You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license or a link to https://github.com/ml5js/Code-of-Conduct/blob/main/LICENSE.md.
+You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license or a link to https://ml5js.org/license.
 
 ## Excuse
 
