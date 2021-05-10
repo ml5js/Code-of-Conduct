@@ -196,3 +196,33 @@ The field of machine learning currently lacks a standard method for documenting 
 - Uses
 - Distribution
 - Maintenance
+
+## Citations/Sources of Inspiration/Fellow Travelers
+
+### Projects that we have drawn language from:
+
+- [p5.js - Community Guidelines](https://p5js.org/community/)
+- [Cloud 9 - Community Guidelines](https://cloud9.support/communityguidelines)
+- [Contributor Covenant - Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
+- [Open Source Guides - Writing Codes of Conduct](https://opensource.guide/code-of-conduct/#take-appropriate-action)
+- [Blue Oak Council - Model License](https://blueoakcouncil.org/license/1.0.0)
+
+### Other projects that we have drawn inspiration from:
+
+- [The Creative Independent - Designing for Diversity](https://thecreativeindependent.com/guides/how-to-begin-designing-for-diversity/)
+- [UnifiedJS - Moderation Policy](https://github.com/unifiedjs/collective/blob/master/moderation.md)
+- [TC39 - Code of Conduct](https://tc39.es/code-of-conduct/#enforcement-manual)
+- [Rust - Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct)
+- [United Nations - Universal Declaration of Human Rights](https://www.un.org/en/universal-declaration-human-rights/)
+- [Cities for Digital Rights - Declaration](https://citiesfordigitalrights.org/declaration)
+- [The Hippocratic License - An Ethical License for Open Source Projects](https://firstdonoharm.dev/)
+- [The Anti-Capitalist Software License](https://anticapitalist.software/)
+- [MIT License](https://github.com/git/git-scm.com/blob/master/MIT-LICENSE.txt)
+
+## Copyright License on the CoC
+
+This Code of Conduct is dedicated to the public domain using the [Creative Commons Zero Public Domain Dedication tool](https://creativecommons.org/share-your-work/public-domain/cc0/). You are free to use this Code of Conduct in any manner you choose without additional permission or credit.
+
+We considered other licensing options such as the [CC BY](https://creativecommons.org/licenses/by/4.0/) or [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license. However, we recognize that attribution can be challenging when integrating parts of one document into another document. CC0 eliminated that barrier to use.
+
+Even though we are using CC0, we would still love to know if you use parts of this Code of Conduct! Please reach out to info@ml5js.org if you find it helpful.
