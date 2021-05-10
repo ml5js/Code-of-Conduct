@@ -36,16 +36,7 @@ Second, it makes revising or changing the license easier. The ml5.js license is 
 
 The Code of Conduct Committee is responsible for maintaining the Code of Conduct as well as deciding if a given use of ml5.js violates the Code of Conduct. It can make those decisions in response to a specific request, or through an investigation it initiates directly.
 
-The Code of Conduct Committee’s members are:
-
-- Christina Dacanay
-- Lydia Jessup
-- Sam Krystal
-- Joey Lee
-- Ashley Jane Lewis
-- Bomani Oseni McClendon
-- Daniel Shiffman
-- Michael Weinberg
+The Code of Conduct Committee is [currently made up of ml5.js community members responsible for originally drafting the Code of Conduct](https://github.com/ml5js/Code-of-Conduct/blob/main/README.md#ml5js-code-of-conduct-steering-committee). It is responsible developing governance structures for the Code of Conduct Committee itself going forward.
 
 If you believe that a project that incorporates ml5.js violates the Code of Conduct, or are concerned that your own project may violate the Code of Conduct, we ask that you report it by emailing info@ml5js.org. Please include your name and a description of the incident.
 
