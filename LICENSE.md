@@ -28,7 +28,7 @@ You must ensure that everyone who gets a copy of any part of this software from 
 
 ## Excuse
 
-If anyone notifies you in writing that you have not complied with [Notices](https://blueoakcouncil.org/license/1.0.0#notices), you can keep your license by taking all practical steps to comply within 30 days after the notice. If you do not do so, your license ends immediately.
+If anyone notifies you in writing that you have not complied with [Notices](https://github.com/ml5js/Code-of-Conduct/blob/main/LICENSE.md#notices), you can keep your license by taking all practical steps to comply within 30 days after the notice. If you do not do so, your license ends immediately.
 
 If anyone notifies you in writing that you have not complied with the Code of Conduct, you can keep your license by taking all practical steps to comply within 30 days after the notice. If you do not do so, and the ml5.js Code of Conduct Committee (or its equivalent or successor) agrees that you are in violation of the Code of Conduct, your license ends immediately.
 
