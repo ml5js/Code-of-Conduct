@@ -30,7 +30,7 @@ As part of the ml5.js Code of Conduct, we pledge to design, build, and use ml5.j
 
 ## 🌍 Overview
 
-This Code of Conduct is designed to apply to behavior within the ml5 community and to the uses of the ml5.js library. Members of the ml5 community are expected to follow the Code of Conduct when participating in the [community spaces described below](). Software that uses the ml5.js library is required to follow the Code of Conduct by the library’s copyright license.
+This Code of Conduct is designed to apply to behavior within the ml5 community and to the uses of the ml5.js library. Members of the ml5 community are expected to follow the Code of Conduct when participating in the [community spaces described below](https://github.com/ml5js/Code-of-Conduct/blob/main/README.md#scope). Software that uses the ml5.js library is required to follow the Code of Conduct by the library’s copyright license.
 
 The ml5.js community expects everyone to work towards creating a harassment-free experience for everyone. We pledge to act in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community. We recognize that harassment-free is not the same as disagreement-free or even conflict-free.
 
